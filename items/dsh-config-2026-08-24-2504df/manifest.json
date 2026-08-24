@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "dsh-config-2026-08-24-2504df",
+  "name": "dsh-config-2026-08-24-2504df",
+  "version": "1.0.0",
+  "author": "The---onE",
+  "updatedAt": "2026-08-24T02:16:50.528Z",
+  "sections": [
+    "settings",
+    "ui",
+    "providers",
+    "plugins",
+    "mcp",
+    "prompts",
+    "workspaces",
+    "skills",
+    "agentPresets",
+    "agentInstructions"
+  ],
+  "provenance": {
+    "source": "https://github.com/The---onE/dsh-configs"
+  },
+  "checksums": {
+    "zip": "80277ce417657f4d4c3a378ca08fec7dc70329e79a762de032039463fa6aa21f"
+  }
+}
