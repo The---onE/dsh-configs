@@ -12,9 +12,16 @@
     {
       "id": "dsh-config-2026-08-26-4a83d4",
       "name": "dsh-config-2026-08-26-4a83d4",
+      "author": "The---onE",
+      "version": "1.0.0",
+      "updatedAt": "2026-08-26T01:56:35.049Z"
+    },
+    {
+      "id": "dsh-config-2026-09-01-0bf2ef",
+      "name": "dsh-config-2026-09-01-0bf2ef",
       "version": "1.0.0",
       "author": "The---onE",
-      "updatedAt": "2026-08-26T01:56:35.049Z"
+      "updatedAt": "2026-09-01T01:37:52.721Z"
     }
   ]
 }
